@@ -21,7 +21,7 @@ package service;
 public class UserService {
     public static void main(String[] args) {
         System.out.println("ä½ å¥½");
-        System.out.println("abcdefg");
+        System.out.println("ÄãºÃ");
     }
 }
 
